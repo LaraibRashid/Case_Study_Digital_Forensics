@@ -11,6 +11,7 @@ Web browsing history
 External device usage
 Email account evidence
 Volume Shadow Copy analysis
+
 ##🛠️ Tools Used
 Autopsy 4.22.1 – For disk image analysis and artifact extraction
 Registry Explorer v2.1.0 – For deep registry inspection
